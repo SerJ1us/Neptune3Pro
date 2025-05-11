@@ -7,7 +7,12 @@
 
 https://www.printables.com/model/841472-elegoo-neptune-3-pro-klipper-upgrade-with-btt-pi-v - По этой ссылке берем инфу о комплектующих, способе подключения и размещения пишки в подвал принтера.
 
-Я Плату размещал немного по другому, с вырезом отверстий под usb порты в передней панели принтера. База под плату была перепроектирована. https://www.printables.com/model/1292849-neptune-3pro-klipper-upgrade-btt-pi-v12
+Я Плату размещал немного по другому, с вырезом отверстий под usb порты в передней панели принтера. 
+![1](https://github.com/SerJ1us/Neptune3Pro/blob/main/Screenshots/10.jpg?raw=true)
+
+База под плату была перепроектирована. https://www.printables.com/model/1292849-neptune-3pro-klipper-upgrade-btt-pi-v12
+![1](https://github.com/SerJ1us/Neptune3Pro/blob/main/Screenshots/11.jpg?raw=true)
+
 Необходимо 2 флеш карты. Одна пойдет в пишку где будет установлена ос (я использовал на 16гб), другая для прошивки принтера (использовал ту что шла в комплекте с принтером на 8гб). 
 ![1](https://github.com/user-attachments/assets/9c63940a-9bb4-4155-aa04-fc9ad6346b5e)
 ![2](https://github.com/user-attachments/assets/5aebe13f-13f6-452a-a35d-2e6f6249d4a7)
